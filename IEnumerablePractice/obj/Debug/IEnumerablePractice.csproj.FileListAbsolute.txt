@@ -1,0 +1,6 @@
+C:\Users\Noah\ProMVC\IEnumerablePractice\IEnumerablePractice\bin\Debug\IEnumerablePractice.exe.config
+C:\Users\Noah\ProMVC\IEnumerablePractice\IEnumerablePractice\bin\Debug\IEnumerablePractice.exe
+C:\Users\Noah\ProMVC\IEnumerablePractice\IEnumerablePractice\bin\Debug\IEnumerablePractice.pdb
+C:\Users\Noah\ProMVC\IEnumerablePractice\IEnumerablePractice\obj\Debug\IEnumerablePractice.csprojResolveAssemblyReference.cache
+C:\Users\Noah\ProMVC\IEnumerablePractice\IEnumerablePractice\obj\Debug\IEnumerablePractice.exe
+C:\Users\Noah\ProMVC\IEnumerablePractice\IEnumerablePractice\obj\Debug\IEnumerablePractice.pdb
